@@ -8,4 +8,4 @@ Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick and simple.
 >>>>>>> feature1
-wo de ai hao shi
+wo de ai hao shi big bra haha 
